@@ -4,7 +4,7 @@ I'm Michael Green, a Full Stack Web Developer living in British Columbia, Canada
 
 :mailbox: Get in touch!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrgreen95/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:greenmr1995@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Michael-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrgreen95/) [![Mail Badge](https://img.shields.io/badge/-Michael-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:greenmr1995@gmail.com)
 
 - :computer: I’m currently working on an events app with my graduating classmate Zak. Stacks: MongoDB, Express, Angular w/ TypeScript.
 - :books: Currently reading Clean Code (Robert Martin) with the LHL Alumni Book Club and A Common Sense Guide to Data Structures and Algorithms (Jay Wengrow). 
