@@ -269,6 +269,6 @@ Although I now live in Vernon, British Columbia, I'm half Australian, half Briti
 
 While in the UK I hiked from the top of mainland Scotland (John o'Groats) to the bottom of England (Land's End) over three very cold months in the Autumn/Winter of 2010-2011 -- a distance of just under 2000km. It's still the greatest thing I've done in my life and at some stage I intend to hike the Welsh coastal path and do a hike in Ireland/NI as well. My love of long-distance hiking began in the national parks of Britain and has never left me.
 
-!["Screenshot for adding property"](./Coastline.jpeg)
+!["Welsh Coastline at Sunset, Oct 2021"](./Coastline.jpeg)
 
 </details>
