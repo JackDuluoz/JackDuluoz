@@ -8,7 +8,6 @@ I'm Michael Green, a Full Stack Web Developer living in British Columbia, Canada
 
 - :computer: I’m currently working on an events app with my graduating classmate Zak. Stacks: MongoDB, Express, Angular w/ TypeScript.
 - :books: Currently reading Clean Code (Robert Martin) with the LHL Alumni Book Club and A Common Sense Guide to Data Structures and Algorithms (Jay Wengrow). 
-- 📫 How to reach me: greenmr1995@gmail.com.
 - ⚡ Fun fact: If I'm not at my computer coding, I'm probably at my computer playing chess.
 - ♜ Play me at: https://www.chess.com/member/broadsword95. 
 
@@ -19,6 +18,7 @@ I'm Michael Green, a Full Stack Web Developer living in British Columbia, Canada
 #### To Business
 
 - :paperclip: [My Resume](https://resume.creddle.io/resume/91u2o6sfbhl)
+- :paperclip: [Linkedin](https://www.linkedin.com/in/mrgreen95/)
 - :email: greenmr1995@gmail.com
 
 #### Profile Visits 
