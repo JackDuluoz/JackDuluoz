@@ -125,7 +125,7 @@ I'm Michael Green, a Full Stack Web Developer living in British Columbia, Canada
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://i.dlpng.com/static/png/7044160_preview.png"
+        src="[image.png](https://www.pngitem.com/pimgs/m/206-2069866_transparent-css3-logo-png-jquery-logo-png-png.png)"
         width="48"
         height="48"
         alt="JQUERY"
@@ -243,15 +243,6 @@ I'm Michael Green, a Full Stack Web Developer living in British Columbia, Canada
       />
       <br /><strong>Linux</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://www.lindenwood.edu/files/resources/xcomptia-aplus-logo.png.pagespeed.ic.51sgZQp_Qo.png"
-        width="48"
-        height="48"
-        alt="COMPTIAA+"
-      />
-       <br /><strong>Comptia A+</strong>
-    </td>
   </tr>   
 </table>
 
@@ -277,5 +268,7 @@ I love continuous learning and collaboration. I'm always happier working on a pr
 Although I now live in Vernon, British Columbia, I'm half Australian, half British, having grown up in Melbourne, Australia, and spent a decade in the UK.
 
 While in the UK I hiked from the top of mainland Scotland (John o'Groats) to the bottom of England (Land's End) over three very cold months in the Autumn/Winter of 2010-2011 -- a distance of just under 2000km. It's still the greatest thing I've done in my life and at some stage I intend to hike the Welsh coastal path and do a hike in Ireland/NI as well. My love of long-distance hiking began in the national parks of Britain and has never left me.
+
+!["Screenshot for adding property"](./Coastline.jpeg)
 
 </details>
