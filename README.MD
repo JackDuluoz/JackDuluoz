@@ -248,8 +248,8 @@ I'm Michael Green, a Full Stack Web Developer living in British Columbia, Canada
 
 ### For Business
 
-- :paperclip: [My Resume](https://resume.creddle.io/resume/91u2o6sfbhl)
-- :link: [Linkedin](https://www.linkedin.com/in/mrgreen95/)
+- :paperclip: [Resume](https://resume.creddle.io/resume/91u2o6sfbhl)
+- :wave: [Linkedin](https://www.linkedin.com/in/mrgreen95/)
 - :email: greenmr1995@gmail.com
 
 ### Profile Visits 
