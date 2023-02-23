@@ -125,7 +125,7 @@ I'm Michael Green, a Full Stack Web Developer living in British Columbia, Canada
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="[image.png](https://www.pngitem.com/pimgs/m/206-2069866_transparent-css3-logo-png-jquery-logo-png-png.png)"
+        src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"
         width="48"
         height="48"
         alt="JQUERY"
