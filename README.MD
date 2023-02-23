@@ -23,7 +23,7 @@ I'm Michael Green, a Full Stack Web Developer living in British Columbia, Canada
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JackDuluoz.JackDuluoz)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJackDuluoz&label=Visitors&countColor=%2337d67a)
 
 <details>
 <summary>
