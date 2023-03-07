@@ -116,6 +116,15 @@ I'm Michael Green, a Full Stack Web Developer living in British Columbia, Canada
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"
+        width="48"
+        height="48"
+        alt="Angular"
+      />
+      <br /><strong>Angular</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
         width="48"
         height="48"
@@ -224,7 +233,7 @@ I'm Michael Green, a Full Stack Web Developer living in British Columbia, Canada
   </tr>  
    
   <tr>
-    <td>Version Control, OS</td>
+    <td>Version Control, OS, Other</td>
     <td align="center" height="108" width="108">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -242,6 +251,15 @@ I'm Michael Green, a Full Stack Web Developer living in British Columbia, Canada
         alt="LINUX"
       />
       <br /><strong>Linux</strong>
+    </td>
+    <td align="center" height="108" min-width="108">
+      <img
+        src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+        width="48"
+        height="48"
+        alt="FIGMA"
+      />
+      <br /><strong>Figma</strong>
     </td>
   </tr>   
 </table>
