@@ -8,7 +8,7 @@ Born 🇦🇺 => Studied 🇬🇧 => Settled 🇨🇦
 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrgreen95/) [![Mail Badge](https://img.shields.io/badge/-Michael-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:greenmr1995@gmail.com)
 
-- :computer: Currently working on a MEAN app (MongoDB, Express, Angular w/ TypeScript) called 'yum'. It's GoodReads for restaurants!. See the [repo](https://github.com/JackDuluoz/yum) here.
+- :computer: Currently working on 'yum', a MEAN app (MongoDB, Express, Angular w/ TypeScript) that aims to be the GoodReads for restaurants and eateries! Follow my progress by checking out the [repo](https://github.com/JackDuluoz/yum) here.
 - :books: Reading Clean Code (Robert Martin) with the LHL Alumni Book Club and A Common Sense Guide to Data Structures and Algorithms (Jay Wengrow). 
 - ⚡ Fun fact: If I'm not at my computer coding, I'm probably at my computer playing chess.
 - ♜ Play me at: https://www.chess.com/member/broadsword95.
