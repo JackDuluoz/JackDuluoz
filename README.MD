@@ -1,6 +1,6 @@
 ## Hi, I'm Michael <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Michael Green, a Full Stack Web Developer living in British Columbia, Canada. I made the switch to tech in 2022 and graduated with a diploma in Full Stack Web Dev in 2023. I worked in store management in the retail grocery industry for a decade before leaving to complete my MBA. During this time I discovered my passion for tech and decided it was time for a change.
+I'm Michael Green, a Full Stack Engineer living in British Columbia, Canada. I worked in store management in the retail grocery industry for a decade before leaving to complete my MBA. During this time I discovered my passion for tech and decided it was time for a change.
 
 Born 🇦🇺 => Studied 🇬🇧 => Settled 🇨🇦
 
@@ -8,10 +8,9 @@ Born 🇦🇺 => Studied 🇬🇧 => Settled 🇨🇦
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrgreen95/) [![Mail Badge](https://img.shields.io/badge/-GMail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:greenmr1995@gmail.com) [![Resume Badge](https://img.shields.io/badge/-Resume-008000?style=flat&labelColor=008000)](https://resume.creddle.io/resume/91u2o6sfbhl)
 
-- :computer: Currently working on 'yum', a MEAN app (MongoDB, Express, Angular w/ TypeScript) that aims to be the GoodReads for restaurants and eateries! Follow my progress by checking out the [repo](https://github.com/JackDuluoz/yum) here.
+- :computer: Currently working on a MEAN app (MongoDB, Express, Angular w/ TypeScript) that aims to be the GoodReads of restaurants! Follow my progress by checking out the [repo](https://github.com/JackDuluoz/yum) here.
 - :books: Reading Clean Code (Robert Martin) with the [Virgl](https://www.virgl.io/) Book Club and A Common Sense Guide to Data Structures and Algorithms (Jay Wengrow). 
-- ⚡ Fun fact: If I'm not at my computer coding, I'm probably at my computer playing chess.
-- ♜ Play me at: https://www.chess.com/member/broadsword95.
+- ♜ Fun Fact: If I'm not at my computer coding, I'm probably at my computer playing chess.
 
 ### 📈 Github Stats
 
