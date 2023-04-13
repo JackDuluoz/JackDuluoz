@@ -141,12 +141,30 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://v4.mui.com/static/logo.png"
+        width="48"
+        height="48"
+        alt="Material-UI"
+      />
+      <br /><strong>Material-UI</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"
         width="48"
         height="48"
         alt="Angular"
       />
       <br /><strong>Angular</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://uploads-ssl.webflow.com/621765eac54e9f270915cf4f/62274c4c390ba687a626b18a_download__1_.png"
+        width="48"
+        height="48"
+        alt="Angular Material"
+      />
+      <br /><strong>Angular Material</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -175,10 +193,28 @@
       />
       <br /><strong>SASS</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://softauthor.com/wp-content/uploads/2020/05/what-is-google-maps.jpg"
+        width="48"
+        height="48"
+        alt="Maps"
+      />
+      <br /><strong>Maps API</strong>
+    </td>
   </tr>
    
   <tr>
     <td>Databases</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="POSTGRESQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td> 
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -187,20 +223,11 @@
         alt="MONGODB"
       />
       <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-          width="48"
-          height="48"
-          alt="POSTGRESQL"
-        />
-        <br /><strong>PostgreSQL</strong>
-      </td>    
+    </td>   
   </tr>
   
   <tr>
-    <td>OS, Version Control</td>
+    <td>Tools</td>
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -218,6 +245,33 @@
         alt="Git"
       />
       <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"
+        width="48"
+        height="48"
+        alt="VSCode"
+      />
+      <br /><strong>VSCode</strong>
+    </td>
+    <td align="center" height="108" min-width="108">
+      <img
+        src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png"
+        width="48"
+        height="48"
+        alt="NPM"
+      />
+      <br /><strong>NPM</strong>
+    </td>
+    <td align="center" height="108" min-width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png"
+        width="48"
+        height="48"
+        alt="JSON"
+      />
+      <br /><strong>JSON</strong>
     </td>
   </tr>   
 </table>
@@ -262,12 +316,30 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://www.w3schools.com/whatis/img_ajax.jpg"
+        width="48"
+        height="48"
+        alt="AJAX"
+      />
+      <br /><strong>AJAX</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg"
         width="48"
         height="48"
         alt="EJS"
       />
       <br /><strong>EJS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"
+        width="48"
+        height="48"
+        alt="Tailwind"
+      />
+      <br /><strong>Tailwind</strong>
     </td>
   </tr>
    
@@ -330,7 +402,7 @@
   </tr>  
    
   <tr>
-    <td>Other</td>
+    <td>Tools</td>
     <td align="center" height="108" min-width="108">
       <img
         src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
@@ -339,6 +411,15 @@
         alt="FIGMA"
       />
       <br /><strong>Figma</strong>
+    </td>
+    <td align="center" height="108" min-width="108">
+      <img
+        src="https://static.javatpoint.com/tutorial/latex/images/latex-tutorial.png"
+        width="48"
+        height="48"
+        alt="LATEX"
+      />
+      <br /><strong>LATEX</strong>
     </td>
   </tr>   
 </table>
