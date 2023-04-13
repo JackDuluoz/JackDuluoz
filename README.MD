@@ -318,21 +318,10 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJackDuluoz&label=Visitors&countColor=%2337d67a)
 
-<details>
-<summary>
-  More About Me :)
-</summary>
-
 <br >
 
-I love continuous learning and collaboration. I'm always happier working on a project with others and I get the greatest joy from building something cool together. I know there'll always be something else I can learn in tech and that's what excites me the most about the industry. Goodbye boredom!
+Although I now live in Canada, I'm half Australian, half British, having grown up in Melbourne, Australia, and spent a decade in the UK. While in the UK I hiked from the top of mainland Scotland (John o'Groats) to the bottom of England (Land's End) over three very cold months in the Autumn/Winter of 2010-2011 -- a distance of just under 2000km. It's still the greatest thing I've done in my life and at some stage I intend to hike the Welsh coastal path (1400km) and do a hike in Ireland/NI as well to complete the set. My love of long-distance hiking began in the national parks of Britain and has never left me. 
 
-Although I now live in Vernon, British Columbia, I'm half Australian, half British, having grown up in Melbourne, Australia, and spent a decade in the UK.
-
-While in the UK I hiked from the top of mainland Scotland (John o'Groats) to the bottom of England (Land's End) over three very cold months in the Autumn/Winter of 2010-2011 -- a distance of just under 2000km. It's still the greatest thing I've done in my life and at some stage I intend to hike the Welsh coastal path and do a hike in Ireland/NI as well. My love of long-distance hiking began in the national parks of Britain and has never left me.
-
-### Welsh Coastline at Sunset, Oct 2021
+### Reconnaissance Hike: Welsh Coastline at Sunset, Oct 2021
 
 !["Welsh Coastline at Sunset, Oct 2021"](./Coastline.jpeg)
-
-</details>
