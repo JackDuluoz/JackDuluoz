@@ -168,6 +168,19 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="SASS"
+      />
+      <br /><strong>SASS</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Cont.</td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
         width="48"
         height="48"
@@ -186,21 +199,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-        width="48"
-        height="48"
-        alt="SASS"
-      />
-      <br /><strong>SASS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://softauthor.com/wp-content/uploads/2020/05/what-is-google-maps.jpg"
         width="48"
         height="48"
         alt="Maps"
       />
-      <br /><strong>Maps API</strong>
+      <br /><strong>Google Maps API</strong>
     </td>
   </tr>
    
