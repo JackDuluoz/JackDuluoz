@@ -351,6 +351,15 @@
     <td>Testing</td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cbabhusal.files.wordpress.com/2015/12/812ab30c5723956adcf8c1bbaf23e471143e1934.png"
+        width="48"
+        height="48"
+        alt="RSPEC"
+      />
+      <br /><strong>RSpec</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
         width="48"
         height="48"
@@ -393,15 +402,6 @@
         alt="CHAI"
       />
       <br /><strong>Chai</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cbabhusal.files.wordpress.com/2015/12/812ab30c5723956adcf8c1bbaf23e471143e1934.png"
-        width="48"
-        height="48"
-        alt="RSPEC"
-      />
-      <br /><strong>RSpec</strong>
     </td>
   </tr>  
    
