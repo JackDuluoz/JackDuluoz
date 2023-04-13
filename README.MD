@@ -76,29 +76,11 @@
 
 <br/>
 
-### :computer: Top Technologies
+### :computer: Working Knowledge
 
 <table>  
   <tr>
     <td>Languages</td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="CSS"
-      />
-      <br /><strong>CSS</strong>
-    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -119,12 +101,21 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         width="48"
         height="48"
-        alt="RUBY"
+        alt="HTML"
       />
-      <br /><strong>Ruby</strong>
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="CSS"
+      />
+      <br /><strong>CSS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -139,33 +130,6 @@
     
   <tr>
     <td>Frameworks & Libraries</td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
-        width="48"
-        height="48"
-        alt="NODEJS"
-      />
-      <br /><strong>NodeJS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png"
-        width="48"
-        height="48"
-        alt="EXPRESS"
-      />
-      <br /><strong>Express</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png"
-        width="48"
-        height="48"
-        alt="RAILS"
-      />
-      <br /><strong>Rails</strong>
-    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -186,30 +150,30 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
+        width="48"
+        height="48"
+        alt="NODEJS"
+      />
+      <br /><strong>NodeJS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png"
+        width="48"
+        height="48"
+        alt="EXPRESS"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
         width="48"
         height="48"
         alt="SASS"
       />
       <br /><strong>SASS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"
-        width="48"
-        height="48"
-        alt="JQUERY"
-      />
-      <br /><strong>jQuery</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg"
-        width="48"
-        height="48"
-        alt="EJS"
-      />
-      <br /><strong>EJS</strong>
     </td>
   </tr>
    
@@ -234,7 +198,79 @@
         <br /><strong>PostgreSQL</strong>
       </td>    
   </tr>
+  
+  <tr>
+    <td>OS, Version Control</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+        width="48"
+        height="48"
+        alt="LINUX"
+      />
+      <br /><strong>Linux</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+  </tr>   
+</table>
 
+<br >
+
+### :computer: Exposed To
+
+<table>  
+  <tr>
+    <td>Languages</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
+        width="48"
+        height="48"
+        alt="RUBY"
+      />
+      <br /><strong>Ruby</strong>
+    </td>
+  </tr>
+    
+  <tr>
+    <td>Frameworks & Libraries</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png"
+        width="48"
+        height="48"
+        alt="RAILS"
+      />
+      <br /><strong>Rails</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"
+        width="48"
+        height="48"
+        alt="JQUERY"
+      />
+      <br /><strong>jQuery</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg"
+        width="48"
+        height="48"
+        alt="EJS"
+      />
+      <br /><strong>EJS</strong>
+    </td>
+  </tr>
+   
   <tr>
     <td>Testing</td>
     <td align="center" height="108" width="108">
@@ -294,25 +330,7 @@
   </tr>  
    
   <tr>
-    <td>Version Control, OS, Other</td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-        width="48"
-        height="48"
-        alt="LINUX"
-      />
-      <br /><strong>Linux</strong>
-    </td>
+    <td>Other</td>
     <td align="center" height="108" min-width="108">
       <img
         src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
@@ -332,8 +350,6 @@ Although I now live in Canada, I'm half Australian, half British, having grown u
 ### Reconnaissance Hike: Welsh Coastline at Sunset, Oct 2021
 
 !["Welsh Coastline at Sunset, Oct 2021"](./Coastline.jpeg)
-
-<br >
 
 ### Profile Visits 
 
