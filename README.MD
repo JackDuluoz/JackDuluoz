@@ -314,10 +314,6 @@
   </tr>   
 </table>
 
-### Profile Visits 
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJackDuluoz&label=Visitors&countColor=%2337d67a)
-
 <br >
 
 Although I now live in Canada, I'm half Australian, half British, having grown up in Melbourne, Australia, and spent a decade in the UK. While in the UK I hiked from the top of mainland Scotland (John o'Groats) to the bottom of England (Land's End) over three very cold months in the Autumn/Winter of 2010-2011 -- a distance of just under 2000km. It's still the greatest thing I've done in my life and at some stage I intend to hike the Welsh coastal path (1400km) and do a hike in Ireland/NI as well to complete the set. My love of long-distance hiking began in the national parks of Britain and has never left me. 
@@ -325,3 +321,9 @@ Although I now live in Canada, I'm half Australian, half British, having grown u
 ### Reconnaissance Hike: Welsh Coastline at Sunset, Oct 2021
 
 !["Welsh Coastline at Sunset, Oct 2021"](./Coastline.jpeg)
+
+<br >
+
+### Profile Visits 
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJackDuluoz&label=Visitors&countColor=%2337d67a)
