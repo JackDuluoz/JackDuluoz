@@ -1,16 +1,63 @@
-## Hi, I'm Michael <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<h1 align="center">👀 Hello and Welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Michael </h1>
 
-I'm a Full Stack Engineer living in British Columbia, Canada. I worked in store management in the retail grocery industry for a decade before leaving to complete my MBA. During this time I discovered my passion for tech and decided it was time for a change. I'm now qualified in Full Stack Development and building my portfolio. Please see below for more information about my many projects.
+<h3 align="center">I'm a Full Stack Software Engineer living in the Okanagan Valley of British Columbia, Canada.</h3>
 
-Born 🇦🇺 => Studied 🇬🇧 => Settled 🇨🇦
+<h3 align="center">Born 🇦🇺 => Studied 🇬🇧 => Settled 🇨🇦</h3>
+<br/>
+<p align="center">
+ ✨
+  <a target="_blank" href="https://www.linkedin.com/in/henry-luan/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+ ✨
+ <a target="_blank" href="https://jackduluoz.github.io/cv/michael-resume.pdf">
+    <img src="https://img.shields.io/badge/resume-243964?style=for-the-badge&logo=latex&logoColor=white">
+  </a>
+ ✨
+</p>
 
-:mailbox: Get in touch!
+👷&nbsp; I'm currently open to work.
+<br/>
+🍞&nbsp; My most recent job was as an Assistant Store Manager with Canada Safeway.
+<br/>
+💻&nbsp; I’m learning Angular and MongoDB at the moment for a 😠 MEAN 😠 app.
+<br/>
+📚&nbsp; Reading Clean Code (Robert Martin) and A Common Sense Guide to Data Structures and Algorithms (Jay Wengrow). 
+<br/>
+:chess_pawn:&nbsp; When I'm not coding, I enjoy playing online blitz chess.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrgreen95/) [![Mail Badge](https://img.shields.io/badge/-GMail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:greenmr1995@gmail.com) [![Resume Badge](https://img.shields.io/badge/-Resume-008000?style=flat&labelColor=008000)](https://jackduluoz.github.io/cv/michael-resume.pdf)
+<section align="center">
+<h2>💡Projects Spotlight💡</h2>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>RentProof</h3>
 
-- :computer: Currently working on a MEAN app (MongoDB, Express, Angular w/ TypeScript) that aims to be the GoodReads of restaurants. Follow my progress by checking out the [repo](https://github.com/JackDuluoz/yum) here.
-- :books: Reading Clean Code (Robert Martin) with the [Virgl](https://www.virgl.io/) Book Club and A Common Sense Guide to Data Structures and Algorithms (Jay Wengrow). 
-- ♜ Fun Fact: If I'm not at my computer coding, I'm probably at my computer playing chess.
+![](https://user-images.githubusercontent.com/114964214/219803406-846513ee-60bf-4f69-ae85-7c1c1b0a4be1.gif)
+
+  <p>
+  <a href="https://github.com/JackDuluoz/RentProof" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a> 
+      </p>
+        <p><strong>React, SCSS, Google Maps API, Node/Express, PostgreSQL</strong> – RentProof tracks rental price data uploaded by users in order to provide a detailed price history of properties over time. This makes it possible to quickly compare individual price fluctuations with the rest of the market.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Scheduler</h3>
+
+![](https://user-images.githubusercontent.com/101907461/198912461-d302a858-0a79-4715-a114-9e8de5a9cc49.png)
+
+  <p>
+  <a href="https://github.com/JackDuluoz/scheduler" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    
+  </a>  
+      </p>
+        <p><strong>React, SCSS, Node/Express, PostgreSQL, Storybook, Jest, Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
+    </td>
+  </tr>
+</table>
+</section>
 
 ### 📈 Github Stats
 
