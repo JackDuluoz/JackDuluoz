@@ -6,7 +6,7 @@ Born 🇦🇺 => Studied 🇬🇧 => Settled 🇨🇦
 
 :mailbox: Get in touch!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrgreen95/) [![Mail Badge](https://img.shields.io/badge/-GMail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:greenmr1995@gmail.com) [![Resume Badge](https://img.shields.io/badge/-Resume-008000?style=flat&labelColor=008000)](https://resume.creddle.io/resume/91u2o6sfbhl)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrgreen95/) [![Mail Badge](https://img.shields.io/badge/-GMail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:greenmr1995@gmail.com) [![Resume Badge](https://img.shields.io/badge/-Resume-008000?style=flat&labelColor=008000)](https://jackduluoz.github.io/cv/michael-resume.pdf)
 
 - :computer: Currently working on a MEAN app (MongoDB, Express, Angular w/ TypeScript) that aims to be the GoodReads of restaurants. Follow my progress by checking out the [repo](https://github.com/JackDuluoz/yum) here.
 - :books: Reading Clean Code (Robert Martin) with the [Virgl](https://www.virgl.io/) Book Club and A Common Sense Guide to Data Structures and Algorithms (Jay Wengrow). 
