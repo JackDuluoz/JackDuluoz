@@ -27,7 +27,7 @@
 :chess_pawn:&nbsp; When I'm not coding, I enjoy playing online blitz chess.
 
 <section align="center">
-<h2>💡Projects Spotlight💡</h2>
+<h2>💡Projects💡</h2>
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
@@ -59,11 +59,22 @@
 </table>
 </section>
 
-### 📈 Github Stats
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackDuluoz&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+<section align="center">
+<h2>📈 Activity 📈</h2>
+<p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackDuluoz&langs_count=6&layout=compact&theme=dark&hide_border=true" alt="languages"/>
+  </p>
+  <p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackDuluoz&theme=dark&hide_border=true" alt="streak" />
+  </p>
+  <p>
+  <img alt="LeetCode" src="https://leetcard.jacoblin.cool/broadsword95?border=0&hide=ranking" />
+  </p>
+</section>
 
-![JackDuluoz's github stats](https://github-readme-stats.vercel.app/api?username=JackDuluoz&count_private=true&theme=tokyonight&hide=contribs,prs)
+<br/>
 
 ### :computer: Top Technologies
 
