@@ -33,7 +33,7 @@
     <td width="50%" valign="top">
       <h3>RentProof</h3>
 
-![](https://user-images.githubusercontent.com/114964214/219803406-846513ee-60bf-4f69-ae85-7c1c1b0a4be1.gif)
+![](https://github.com/JackDuluoz/RentProof/blob/master/server/assets/home-page.gif)
 
   <p>
   <a href="https://github.com/JackDuluoz/RentProof" target="_blank">
