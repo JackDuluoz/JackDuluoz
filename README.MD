@@ -20,7 +20,7 @@
 <br/>
 🍞&nbsp; Most recently, I worked as an Assistant Store Manager with Canada Safeway.
 <br/>
-💻&nbsp; I’m learning Angular and MongoDB at the moment for a 😠 MEAN 😠 app.
+💻&nbsp; I’m learning Angular and MongoDB for a 😠 MEAN 😠 app.
 <br/>
 📚&nbsp; Reading Clean Code (Robert Martin) and A Common Sense Guide to Data Structures and Algorithms (Jay Wengrow). 
 <br/>
@@ -76,7 +76,7 @@
 
 <br/>
 
-### :computer: Working Knowledge
+<h2 align="center">:computer: Working Knowledge :computer:</h2>
 
 <table>  
   <tr>
@@ -282,7 +282,7 @@
 
 <br >
 
-### :computer: Exposed To
+<h2 align="center">:computer: Exposed To :computer:</h2>
 
 <table>  
   <tr>
@@ -432,7 +432,7 @@
 
 Although I now live in Canada, I'm half Australian, half British, having grown up in Melbourne, Australia, and spent a decade in the UK. While in the UK I hiked from the top of mainland Scotland (John o'Groats) to the bottom of England (Land's End) over three very cold months in the Autumn/Winter of 2010-2011 -- a distance of just under 2000km. It's still the greatest thing I've done in my life and at some stage I intend to hike the Welsh coastal path (1400km) and do a hike in Ireland/NI as well to complete the set. My love of long-distance hiking began in the national parks of Britain and has never left me. 
 
-### Reconnaissance Hike: Welsh Coastline at Sunset, Oct 2021
+<h2 align="center">:hiking_boot: Reconnaissance Hike: Welsh Coastline at Sunset, Oct 2021 :hiking_boot:</h2>
 
 !["Welsh Coastline at Sunset, Oct 2021"](./Coastline.jpeg)
 
