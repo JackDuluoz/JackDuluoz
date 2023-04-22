@@ -436,6 +436,8 @@ Although I now live in Canada, I'm half Australian, half British, having grown u
 
 !["Welsh Coastline at Sunset, Oct 2021"](./Coastline.jpeg)
 
-### Profile Visits 
+<section align="center">
+<h2>Profile Visits</h2> 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJackDuluoz&label=Visitors&countColor=%2337d67a)
+</section>
