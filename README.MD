@@ -45,7 +45,7 @@
     <td width="50%" valign="top">
       <h3>Scheduler</h3>
 
-![](https://user-images.githubusercontent.com/101907461/198912461-d302a858-0a79-4715-a114-9e8de5a9cc49.png)
+![](https://github.com/JackDuluoz/scheduler/blob/master/docs/add.gif)
 
   <p>
   <a href="https://github.com/JackDuluoz/scheduler" target="_blank">
