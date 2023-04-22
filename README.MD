@@ -18,7 +18,7 @@
 
 👷&nbsp; I'm currently open to work.
 <br/>
-🍞&nbsp; My most recent job was as an Assistant Store Manager with Canada Safeway.
+🍞&nbsp; Most recently, I worked as an Assistant Store Manager with Canada Safeway.
 <br/>
 💻&nbsp; I’m learning Angular and MongoDB at the moment for a 😠 MEAN 😠 app.
 <br/>
