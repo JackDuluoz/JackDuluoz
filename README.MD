@@ -141,15 +141,6 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://v4.mui.com/static/logo.png"
-        width="48"
-        height="48"
-        alt="Material-UI"
-      />
-      <br /><strong>Material-UI</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"
         width="48"
         height="48"
@@ -218,16 +209,7 @@
         alt="POSTGRESQL"
       />
       <br /><strong>PostgreSQL</strong>
-    </td> 
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="MONGODB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>   
+    </td>  
   </tr>
   
   <tr>
@@ -239,7 +221,7 @@
         height="48"
         alt="LINUX"
       />
-      <br /><strong>Linux</strong>
+      <br /><strong>Linux (Ubuntu)</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -258,25 +240,7 @@
         alt="VSCode"
       />
       <br /><strong>VSCode</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png"
-        width="48"
-        height="48"
-        alt="NPM"
-      />
-      <br /><strong>NPM</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png"
-        width="48"
-        height="48"
-        alt="JSON"
-      />
-      <br /><strong>JSON</strong>
-    </td>
+    </td>    
   </tr>   
 </table>
 
@@ -295,6 +259,15 @@
         alt="RUBY"
       />
       <br /><strong>Ruby</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
     </td>
   </tr>
     
@@ -345,6 +318,28 @@
       />
       <br /><strong>Tailwind</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://v4.mui.com/static/logo.png"
+        width="48"
+        height="48"
+        alt="Material-UI"
+      />
+      <br /><strong>Material-UI</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Databases</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="MONGODB"
+      />
+      <br /><strong>MongoDB</strong>
+    </td>   
   </tr>
    
   <tr>
