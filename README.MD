@@ -5,15 +5,19 @@
 <h3 align="center">Born 🇦🇺 => Studied 🇬🇧 => Settled 🇨🇦</h3>
 <br/>
 <p align="center">
- ✨
+  ✨
+  <a target="_blank" href="https://jackduluoz.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-purple.svg?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+  ✨
   <a target="_blank" href="https://www.linkedin.com/in/mrgreen95/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- ✨
- <a target="_blank" href="https://jackduluoz.github.io/cv/michael-resume.pdf">
+  ✨
+  <a target="_blank" href="https://jackduluoz.github.io/cv/michael-resume.pdf">
     <img src="https://img.shields.io/badge/resume-243964?style=for-the-badge&logo=latex&logoColor=white">
   </a>
- ✨
+  ✨
 </p>
 
 👷&nbsp; I'm currently open to work.
