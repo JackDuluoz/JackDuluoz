@@ -20,11 +20,7 @@
   ✨
 </p>
 
-👷&nbsp; I'm currently open to work.
-<br/>
-🍞&nbsp; Most recently, I worked as an Assistant Store Manager with Canada Safeway.
-<br/>
-💻&nbsp; I’m learning Angular and MongoDB for a 😠 MEAN 😠 app.
+👷&nbsp; I'm currently working as a Developer for [reSolved](https://re-solved.ca/).
 <br/>
 📚&nbsp; Reading Clean Code (Robert Martin) and A Common Sense Guide to Data Structures and Algorithms (Jay Wengrow). 
 <br/>
@@ -34,6 +30,19 @@
 <h2>💡Projects💡</h2>
 <table bordercolor="#66b2b2">
   <tr>
+    <td width="50%" valign="top">
+      <h3>Forest Friends</h3>
+
+![](./jewelbox.webm)
+
+  <p>
+  <a href="https://jackduluoz.github.io/jewelbox/jewelbox.html" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+    
+  </a>  
+      </p>
+        <p><strong>JavaScript, HTML (canvas), CSS</strong> – A personal homage to the Macintosh game Jewelbox (1992) and Sega Columns (1990) built using the canvas element.</p>
+    </td>
     <td width="50%" valign="top">
       <h3>RentProof</h3>
 
@@ -45,19 +54,6 @@
   </a> 
       </p>
         <p><strong>React, SCSS, Google Maps API, Node/Express, PostgreSQL</strong> – RentProof tracks rental price data uploaded by users in order to provide a detailed price history of properties over time. This makes it possible to quickly compare individual price fluctuations with the rest of the market.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Scheduler</h3>
-
-![](https://github.com/JackDuluoz/scheduler/blob/master/docs/add.gif)
-
-  <p>
-  <a href="https://github.com/JackDuluoz/scheduler" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-    
-  </a>  
-      </p>
-        <p><strong>React, SCSS, Node/Express, PostgreSQL, Storybook, Jest, Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
     </td>
   </tr>
 </table>
