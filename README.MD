@@ -33,7 +33,7 @@
     <td width="50%" valign="top">
       <h3>Forest Friends</h3>
 
-![](./jewelbox.webm)
+![](./forest-friends.gif)
 
   <p>
   <a href="https://jackduluoz.github.io/jewelbox/jewelbox.html" target="_blank">
