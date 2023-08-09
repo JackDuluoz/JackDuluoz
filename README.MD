@@ -36,7 +36,7 @@
 ![](./forest-friends.gif)
 
   <p>
-  <a href="https://jackduluoz.github.io/jewelbox/jewelbox.html" target="_blank">
+  <a target="_blank" rel="noopener noreferrer" href="https://jackduluoz.github.io/jewelbox/jewelbox.html">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
     
   </a>  
@@ -49,7 +49,7 @@
 ![](https://github.com/JackDuluoz/RentProof/blob/master/server/assets/home-page.gif)
 
   <p>
-  <a href="https://github.com/JackDuluoz/RentProof" target="_blank">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/JackDuluoz/RentProof">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a> 
       </p>
