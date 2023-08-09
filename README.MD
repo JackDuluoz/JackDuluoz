@@ -20,7 +20,7 @@
   ✨
 </p>
 
-👷&nbsp; I'm currently working as a Developer for [reSolved](https://re-solved.ca/).
+👷&nbsp; I'm currently working as a Developer for [reSolved](https://re-solved.ca/){:target="\_blank"}.
 <br/>
 📚&nbsp; Reading Clean Code (Robert Martin) and A Common Sense Guide to Data Structures and Algorithms (Jay Wengrow). 
 <br/>
