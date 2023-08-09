@@ -83,6 +83,15 @@
     <td>Languages</td>
     <td align="center" height="108" width="108">
       <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         width="48"
         height="48"
@@ -98,6 +107,15 @@
         alt="TYPESCRIPT"
       />
       <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
+        width="48"
+        height="48"
+        alt="SQL"
+      />
+      <br /><strong>SQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -117,59 +135,19 @@
       />
       <br /><strong>CSS</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png"
-        width="48"
-        height="48"
-        alt="SQL"
-      />
-      <br /><strong>SQL</strong>
-    </td>
-  </tr>
-    
-  <tr>
-    <td>Frameworks & Libraries</td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="REACT"
-      />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"
-        width="48"
-        height="48"
-        alt="Angular"
-      />
-      <br /><strong>Angular</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://uploads-ssl.webflow.com/621765eac54e9f270915cf4f/62274c4c390ba687a626b18a_download__1_.png"
-        width="48"
-        height="48"
-        alt="Angular Material"
-      />
-      <br /><strong>Angular Material</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-        width="48"
-        height="48"
-        alt="SASS"
-      />
-      <br /><strong>SASS</strong>
-    </td>
   </tr>
 
   <tr>
-    <td>Cont.</td>
+    <td>Backend</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://flask.palletsprojects.com/en/2.3.x/_static/flask-vertical.png"
+        width="48"
+        height="48"
+        alt="FLASK"
+      />
+      <br /><strong>Flask</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
@@ -188,15 +166,6 @@
       />
       <br /><strong>Express</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://softauthor.com/wp-content/uploads/2020/05/what-is-google-maps.jpg"
-        width="48"
-        height="48"
-        alt="Maps"
-      />
-      <br /><strong>Google Maps API</strong>
-    </td>
   </tr>
    
   <tr>
@@ -210,6 +179,107 @@
       />
       <br /><strong>PostgreSQL</strong>
     </td>  
+  </tr>
+  <tr>
+    <td>AWS</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.worldvectorlogo.com/logos/aws-lambda.svg"
+        width="48"
+        height="48"
+        alt="LAMBDA"
+      />
+      <br /><strong>Lambda</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://static-00.iconduck.com/assets.00/aws-api-gateway-icon-423x512-70e4i3mi.png"
+        width="48"
+        height="48"
+        alt="APIGATEWAY"
+      />
+      <br /><strong>API Gateway</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.bouncebacktech.com/assets/img/amzec2logo.png"
+        width="48"
+        height="48"
+        alt="EC2"
+      />
+      <br /><strong>EC2</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://d2908q01vomqb2.cloudfront.net/887309d048beef83ad3eabf2a79a64a389ab1c9f/2021/08/10/AWS_ElastiCache_Icon-1.png"
+        width="48"
+        height="48"
+        alt="ELASTICACHE"
+      />
+      <br /><strong>Elasticache</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://codeopinion.com/wp-content/uploads/2019/08/aws-cloudwatch-logo-png-transparent.png"
+        width="48"
+        height="48"
+        alt="CLOUDWATCH"
+      />
+      <br /><strong>CloudWatch</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Testing</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/2048px-Pytest_logo.svg.png"
+        width="48"
+        height="48"
+        alt="PYTEST"
+      />
+      <br /><strong>Pytest</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Frameworks & Libraries</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="REACT"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://sass-lang.com/assets/img/styleguide/seal-color.png"
+        width="48"
+        height="48"
+        alt="SCSS"
+      />
+      <br /><strong>SCSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png"
+        width="48"
+        height="48"
+        alt="SCRAPY"
+      />
+      <br /><strong>Scrapy</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://softauthor.com/wp-content/uploads/2020/05/what-is-google-maps.jpg"
+        width="48"
+        height="48"
+        alt="Maps"
+      />
+      <br /><strong>Google Maps API</strong>
+    </td>
   </tr>
   
   <tr>
@@ -260,15 +330,6 @@
       />
       <br /><strong>Ruby</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
-        width="48"
-        height="48"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
-    </td>
   </tr>
     
   <tr>
@@ -284,48 +345,21 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"
+        width="48"
+        height="48"
+        alt="Angular"
+      />
+      <br /><strong>Angular</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"
         width="48"
         height="48"
         alt="JQUERY"
       />
       <br /><strong>jQuery</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://www.w3schools.com/whatis/img_ajax.jpg"
-        width="48"
-        height="48"
-        alt="AJAX"
-      />
-      <br /><strong>AJAX</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg"
-        width="48"
-        height="48"
-        alt="EJS"
-      />
-      <br /><strong>EJS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"
-        width="48"
-        height="48"
-        alt="Tailwind"
-      />
-      <br /><strong>Tailwind</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://v4.mui.com/static/logo.png"
-        width="48"
-        height="48"
-        alt="Material-UI"
-      />
-      <br /><strong>Material-UI</strong>
     </td>
   </tr>
 
