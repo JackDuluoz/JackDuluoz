@@ -20,7 +20,11 @@
   ✨
 </p>
 
-👷&nbsp; I'm currently working as a Developer for [reSolved](https://re-solved.ca/).
+📈&nbsp; I'm currently working as a Developer for [reSolved](https://re-solved.ca/).
+<br/>
+🎙️&nbsp; I'm also assisting at a leading podcast hosting platform, [Transistor.fm](https://transistor.fm).
+<br/>
+💻&nbsp; Coming Soon: MultiplAI -- you personal job search assistant.
 <br/>
 📚&nbsp; Reading Clean Code (Robert Martin) and A Common Sense Guide to Data Structures and Algorithms (Jay Wengrow). 
 <br/>
