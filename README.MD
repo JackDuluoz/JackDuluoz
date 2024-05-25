@@ -4,9 +4,11 @@
 <br/>
 
 <section align="center">
+<p>
 📈&nbsp; I'm currently working as a Developer for [reSolved](https://re-solved.ca/).
 <br/>
 🎙️&nbsp; I'm also assisting at a leading podcast hosting platform, [Transistor.fm](https://transistor.fm).
+</p>
 </section>
 
 <section align="center">
