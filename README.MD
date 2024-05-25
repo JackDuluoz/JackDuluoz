@@ -1,6 +1,4 @@
-<h1 align="center">👀 Hello and Welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Michael </h1>
-
-<h3 align="center">I'm a Full Stack Software Engineer living in the Okanagan Valley of British Columbia, Canada.</h3>
+<h1 align="center">HI there, I'm Michael. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 
 <h3 align="center">Born 🇦🇺 => Studied 🇬🇧 => Settled 🇨🇦</h3>
 <br/>
@@ -20,16 +18,12 @@
 <br/>
 🎙️&nbsp; I'm also assisting at a leading podcast hosting platform, [Transistor.fm](https://transistor.fm).
 <br/>
-💻&nbsp; Coming Soon: MultiplAI -- you personal job search assistant.
-<br/>
-📚&nbsp; Reading Clean Code (Robert Martin) and A Common Sense Guide to Data Structures and Algorithms (Jay Wengrow). 
-<br/>
 :chess_pawn:&nbsp; When I'm not coding, I enjoy playing online blitz chess.
 
 <section align="center">
 <h2>💡Projects💡</h2>
 <table bordercolor="#66b2b2">
-  <tr>
+  <tr>  
     <td width="50%" valign="top">
       <h3>Forest Friends</h3>
 
@@ -456,14 +450,6 @@
     </td>
   </tr>   
 </table>
-
-<br >
-
-Although I now live in Canada, I'm half Australian, half British, having grown up in Melbourne, Australia, and spent a decade in the UK. While in the UK I hiked from the top of mainland Scotland (John o'Groats) to the bottom of England (Land's End) over three very cold months in the Autumn/Winter of 2010-2011 -- a distance of just under 2000km. It's still the greatest thing I've done in my life and at some stage I intend to hike the Welsh coastal path (1400km) and do a hike in Ireland/NI as well to complete the set. My love of long-distance hiking began in the national parks of Britain and has never left me. 
-
-<h2 align="center">:hiking_boot: Reconnaissance Hike: Welsh Coastline at Sunset, Oct 2021 :hiking_boot:</h2>
-
-!["Welsh Coastline at Sunset, Oct 2021"](./Coastline.jpeg)
 
 <section align="center">
 <h2>Profile Visits</h2> 
