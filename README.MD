@@ -12,7 +12,7 @@
 </section>
 
 <section align="center">
-<h2>💡Projects💡</h2>
+<h2>Projects</h2>
 <table bordercolor="#66b2b2">
   <tr>  
     <td width="50%" valign="top">
@@ -47,7 +47,7 @@
 <br/>
 
 <section align="center">
-<h2>📈 Activity 📈</h2>
+<h2>Activity</h2>
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackDuluoz&langs_count=6&layout=compact&theme=dark&hide_border=true" alt="languages"/>
   </p>
@@ -61,7 +61,7 @@
 
 <br/>
 
-<h2 align="center">:computer: Working Knowledge :computer:</h2>
+<h2 align="center">Working Knowledge</h2>
 
 <table>  
   <tr>
@@ -301,7 +301,7 @@
 
 <br >
 
-<h2 align="center">:computer: Exposed To :computer:</h2>
+<h2 align="center">Exposed To</h2>
 
 <table>  
   <tr>
