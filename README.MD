@@ -5,9 +5,9 @@
 
 <section align="center">
 <p>
-I'm currently working as a Developer for [reSolved](https://re-solved.ca/).
+I'm currently working as a Developer for reSolved.
 <br/>
-I'm also assisting at a leading podcast hosting platform, [Transistor.fm](https://transistor.fm).
+I'm also assisting at a leading podcast hosting platform, Transistor.fm.
 </p>
 </section>
 
