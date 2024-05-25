@@ -2,23 +2,12 @@
 
 <h3 align="center">Born 🇦🇺 => Studied 🇬🇧 => Settled 🇨🇦</h3>
 <br/>
-<p align="center">
-  ✨
-  <a target="_blank" href="https://www.linkedin.com/in/mrgreen95/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  ✨
-  <a target="_blank" href="https://jackduluoz.github.io/cv/michael-resume.pdf">
-    <img src="https://img.shields.io/badge/resume-243964?style=for-the-badge&logo=latex&logoColor=white">
-  </a>
-  ✨
-</p>
 
+<section align="center">
 📈&nbsp; I'm currently working as a Developer for [reSolved](https://re-solved.ca/).
 <br/>
 🎙️&nbsp; I'm also assisting at a leading podcast hosting platform, [Transistor.fm](https://transistor.fm).
-<br/>
-:chess_pawn:&nbsp; When I'm not coding, I enjoy playing online blitz chess.
+</section>
 
 <section align="center">
 <h2>💡Projects💡</h2>
