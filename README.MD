@@ -19,7 +19,7 @@ Working at <a href="https://transistor.fm/" target="_blank">Transistor.fm</a>
 ![](./forest-friends.gif)
 
   <p>
-  <a target="_blank" rel="noopener noreferrer" href="https://jackduluoz.github.io/jewelbox/jewelbox.html">
+  <a target="_blank" rel="noopener noreferrer" href="https://jackduluoz.github.io/jewelbox/">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
     
   </a>  
