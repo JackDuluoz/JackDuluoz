@@ -13,7 +13,7 @@ I'm a Support Engineer for <a href="https://transistor.fm/" target="_blank">Tran
 <h2>Projects</h2>
 <table bordercolor="#66b2b2">
   <tr>  
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>Forest Friends</h3>
 
 ![](./forest-friends.gif)
@@ -26,18 +26,6 @@ I'm a Support Engineer for <a href="https://transistor.fm/" target="_blank">Tran
       </p>
         <p><strong>JavaScript, HTML (canvas), CSS</strong> – A personal homage to the Macintosh game Jewelbox (1992) and Sega Columns (1990) built using the canvas element.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>RentProof</h3>
-
-![](https://github.com/JackDuluoz/RentProof/blob/master/server/assets/home-page.gif)
-
-  <p>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/JackDuluoz/RentProof">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a> 
-      </p>
-        <p><strong>React, SCSS, Google Maps API, Node/Express, PostgreSQL</strong> – RentProof tracks rental price data uploaded by users in order to provide a detailed price history of properties over time. This makes it possible to quickly compare individual price fluctuations with the rest of the market.</p>
-    </td>
   </tr>
 </table>
 </section>
@@ -47,9 +35,6 @@ I'm a Support Engineer for <a href="https://transistor.fm/" target="_blank">Tran
 <section align="center">
 <h2>Activity</h2>
 <p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackDuluoz&langs_count=6&layout=compact&theme=dark&hide_border=true" alt="languages"/>
-  </p>
-  <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackDuluoz&theme=dark&hide_border=true" alt="streak" />
   </p>
   <p>
@@ -62,64 +47,6 @@ I'm a Support Engineer for <a href="https://transistor.fm/" target="_blank">Tran
 <h2 align="center">Working Knowledge</h2>
 
 <table>  
-  <tr>
-    <td>Languages</td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
-        width="48"
-        height="48"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
-        alt="JAVASCRIPT"
-      />
-      <br /><strong>JavaScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://titrias.com/files/2022/04/typescript.png"
-        width="48"
-        height="48"
-        alt="TYPESCRIPT"
-      />
-      <br /><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
-        width="48"
-        height="48"
-        alt="SQL"
-      />
-      <br /><strong>SQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="CSS"
-      />
-      <br /><strong>CSS</strong>
-    </td>
-  </tr>
-
   <tr>
     <td>Backend</td>
     <td align="center" height="108" width="108">
@@ -302,19 +229,6 @@ I'm a Support Engineer for <a href="https://transistor.fm/" target="_blank">Tran
 <h2 align="center">Exposed To</h2>
 
 <table>  
-  <tr>
-    <td>Languages</td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-        width="48"
-        height="48"
-        alt="RUBY"
-      />
-      <br /><strong>Ruby</strong>
-    </td>
-  </tr>
-    
   <tr>
     <td>Frameworks & Libraries</td>
     <td align="center" height="108" width="108">
