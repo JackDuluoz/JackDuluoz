@@ -3,11 +3,9 @@
 <h3 align="center">Born 🇦🇺 => Studied 🇬🇧 => Settled 🇨🇦</h3>
 <br/>
 
-<section align="center">
-<p>
+<p align="center">
 Working at <a href="https://transistor.fm/" target="_blank">Transistor.fm</a>
 </p>
-</section>
 
 <section align="center">
 <h2>Projects</h2>
