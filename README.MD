@@ -33,18 +33,6 @@ I'm a Support Engineer for <a href="https://transistor.fm/" target="_blank">Tran
 <br/>
 
 <section align="center">
-<h2>Activity</h2>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackDuluoz&theme=dark&hide_border=true" alt="streak" />
-  </p>
-  <p>
-  <img alt="LeetCode" src="https://leetcard.jacoblin.cool/broadsword95?border=0&hide=ranking" />
-  </p>
-</section>
-
-<br/>
-
-<section align="center">
 <h2>Profile Visits</h2> 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJackDuluoz&label=Visitors&countColor=%2337d67a)
