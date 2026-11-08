@@ -1,11 +1,11 @@
-<h1 align="center">HI there, I'm Michael.</h1>
+<h1 align="center">Michael is On The Road...</h1>
 
 <h3 align="center">Born 🇦🇺 => Studied 🇬🇧 => Settled 🇨🇦</h3>
 <br/>
 
 <section align="center">
 <p>
-I'm a Support Engineer for <a href="https://transistor.fm/" target="_blank">Transistor.fm</a>, a leading podcast hosting platform.
+Working at <a href="https://transistor.fm/" target="_blank">Transistor.fm</a>
 </p>
 </section>
 
